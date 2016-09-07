@@ -17,7 +17,9 @@
   "authors": [
     {
       "name": "Jose Lopez Chavez(ayrozjlc) - Tecnocen",
-      "email": "jlopez@tecnocen.com"
+      "email": "jlopez@tecnocen.com",
+      "homepage": "https://github.com/tecnocen-com",
+      "role": "Developer"
     }
   ],
   "autoload": {
@@ -27,7 +29,8 @@
   },
   "minimum-stability": "dev",
   "require": {
-    "bower-asset/bootstrap-hover-dropdown": "*"
+    "bower-asset/bootstrap-hover-dropdown": "*",
+    "yiisoft/yii2": "2.0.*"
   },
   "extra": {
     "asset-installer-paths": {

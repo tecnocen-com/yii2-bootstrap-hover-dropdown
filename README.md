@@ -23,7 +23,7 @@ in view (for example: ```@app/views/layouts/main.php```)
 
 ```php
 // ...
-use tecnocen\yii2-bootstrap-hover-dropdown\HoverDropdownAssetBundle;
+use tecnocen\hoverdropdown\HoverDropdownAssetBundle;
 // ...
 HoverDropdownAssetBundle::register($this);
 ```
@@ -33,6 +33,6 @@ or add to your ```assets/AppAsset.php```
 ```php
 public $depends = [
     // ...
-    '\delocker\animate\HoverDropdownAssetBundle',
+    '\tecnocen\hoverdropdown\HoverDropdownAssetBundle',
 ];
 ```
