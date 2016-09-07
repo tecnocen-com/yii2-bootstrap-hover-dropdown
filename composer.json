@@ -1,0 +1,37 @@
+{
+  "name": "tecnocen/yii2-bootstrap-hover-dropdown",
+  "description": "AssetBundle for https://cameronspear.com/demos/bootstrap-hover-dropdown/",
+  "keywords": [
+    "yii2",
+    "bootstrap",
+    "hover",
+    "dropdown",
+    "yii2-bootstrap-hover-dropdown",
+    "bootstrap-hover-dropdown"
+  ],
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "support": {
+    "source": "https://github.com/tecnocen-com/yii2-bootstrap-hover-dropdown"
+  },
+  "authors": [
+    {
+      "name": "Jose Lopez Chavez(ayrozjlc) - Tecnocen",
+      "email": "jlopez@tecnocen.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "tecnocen\\hoverdropdown\\": ""
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "bower-asset/bootstrap-hover-dropdown": "*"
+  },
+  "extra": {
+    "asset-installer-paths": {
+      "bower-asset-library": "vendor/bower"
+    }
+  }
+}
