@@ -1,4 +1,12 @@
 # Yii2 bootstrap-hover-dropdown
+***
+[![Latest Stable Version](https://poser.pugx.org/tecnocen/yii2-bootstrap-hover-dropdown/v/stable)](https://packagist.org/packages/tecnocen/yii2-bootstrap-hover-dropdown)
+[![Total Downloads](https://poser.pugx.org/tecnocen/yii2-bootstrap-hover-dropdown/downloads)](https://packagist.org/packages/tecnocen/yii2-bootstrap-hover-dropdown)
+[![Latest Unstable Version](https://poser.pugx.org/tecnocen/yii2-bootstrap-hover-dropdown/v/unstable)](https://packagist.org/packages/tecnocen/yii2-bootstrap-hover-dropdown)
+[![License](https://poser.pugx.org/tecnocen/yii2-bootstrap-hover-dropdown/license)](https://packagist.org/packages/tecnocen/yii2-bootstrap-hover-dropdown)
+
+***
+
 AssetBundle for https://cameronspear.com/demos/bootstrap-hover-dropdown/
 
 ## Installation
